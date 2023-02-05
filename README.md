@@ -1,1 +1,1 @@
-# .github
+# Lost Cosmonauts Org
